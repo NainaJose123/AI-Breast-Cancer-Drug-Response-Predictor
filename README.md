@@ -33,22 +33,36 @@ Integration of biological pathway knowledge for interpretability
 
 
 🧬 Data Sources & Biological Databases
+
+
 This project integrates multiple real-world biomedical datasets and knowledge bases:
+
+
 Gene Expression Data:
 GEO GSE81538
 Used for tumor RNA-seq gene expression profiles.
+
+
 Drug Response Data:
 GDSC v2
 Provides IC₅₀ drug sensitivity measurements.
+
+
 Cancer Cell Line Data:
 CCLE
 Links gene expression with pharmacological response.
+
+
 Protein Interaction Network:
 STRING v12.0
 Used for modeling functional gene/protein interactions.
+
+
 Drug–Target Knowledge Base:
 DrugBank
 Used to map drugs to biological targets (e.g., ERBB2, PIK3CA).
+
+
 Pathway Information:
 KEGG pathways
 Used for cancer pathway enrichment and biological validation.

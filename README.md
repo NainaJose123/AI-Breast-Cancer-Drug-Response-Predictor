@@ -167,5 +167,26 @@ This project bridges machine learning and cancer biology by integrating multi-so
 
 
 
+🖼️ System Preview
+<img width="719" height="305" alt="image" src="https://github.com/user-attachments/assets/3f1894c9-41ec-4bd0-b42b-ca9120d9e5b2" />
+<img width="715" height="255" alt="image" src="https://github.com/user-attachments/assets/80a08da5-13b9-49aa-a521-ca3a88aec00d" />
+<img width="719" height="318" alt="image" src="https://github.com/user-attachments/assets/160e2a91-c512-4c20-98a8-9159a901fffb" />
+<img width="719" height="283" alt="image" src="https://github.com/user-attachments/assets/3e2e8824-4b96-47c0-a11a-2c1ec9823c11" />
+<img width="714" height="275" alt="image" src="https://github.com/user-attachments/assets/c873875f-d804-42a7-993a-2b2073a51d52" />
+<img width="714" height="341" alt="image" src="https://github.com/user-attachments/assets/13dd262c-8f5e-47a9-843f-de12b15e388a" />
+
+
+
+
+
+
+
+
+🎥 Project Demo
+https://drive.google.com/file/d/1SON7ZbocyueQ-RfFAAJvCIyAh2fHuXM6/view?usp=drive_link
+
+
+
+
 👤 Author
 Developed as an AI + Bioinformatics research project focused on personalized cancer therapy prediction using multi-omics data integration.
